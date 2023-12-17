@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, there! I'm Zhe Wang, a senior undergraduate student from Tsinghua University.
+Hi, there! I'm Zhe Wang, a senior undergraduate student from Tsinghua University./
 My research interest includes natural language processing (NLP) and machine learning (ML).
 
 # 💻 Research Interests 
