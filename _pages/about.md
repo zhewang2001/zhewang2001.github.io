@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign.   I am advised by Prof. [Lingming Zhang](https://lingming.cs.illinois.edu)
+Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign.   I am advised by Prof. [Lingming Zhang](https://lingming.cs.illinois.edu).
+
 My research interest includes natural language processing (NLP), software engineering (SE) and machine learning (ML).
 
 
@@ -40,7 +41,8 @@ Yuxiang Wei, **Zhe Wang**, Jiawei Liu, Yifeng Ding, Lingming Zhang
 
 
 # 📖 Educations
-- Undergraduate, 2020 - 2024(expected) Mathematics and Physics, **Tsinghua University**
+- Master of Science, 2024 - 2026 (expected), Computer Science, **University of Illinois Urbana-Champaign**
+- Bachelor of Sience, 2020 - 2024, Mathematics and Physics, **Tsinghua University**
 
 
 
