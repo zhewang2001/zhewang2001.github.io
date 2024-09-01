@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhe Wang"
   avatar           : "images/IMG_7193.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "University of Illinois Urbana-Champaign"
+  location         : "Illinois, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FWYVR2gAAAAJ&hl=en&oi=sra"
-  email            : "zhewang20@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=daDPx9AAAAAJ&hl=en&authuser=2"
+  email            : "zhe36@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
