@@ -44,6 +44,6 @@ Yuxiang Wei, **Zhe Wang**, Jiawei Liu, Yifeng Ding, Lingming Zhang
 - Master of Science, 2024 - 2026 (expected), Computer Science, **University of Illinois Urbana-Champaign**
 - Bachelor of Sience, 2020 - 2024, Mathematics and Physics, **Tsinghua University**
 
-# 📋 CV
+
 
 [PDF](https://drive.google.com/file/d/1etOwmjL4wlPPFviALr31aeb6gzhZWUxT/view?usp=sharing)
