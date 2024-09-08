@@ -22,7 +22,7 @@ Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science)
 
 My research interest includes natural language processing (NLP), software engineering (SE) and machine learning (ML).
 
-You can find my CV here:[Zhe's CV](https://drive.google.com/file/d/1etOwmjL4wlPPFviALr31aeb6gzhZWUxT/view?usp=sharing)
+You can find my CV here: [Zhe's CV](https://drive.google.com/file/d/1etOwmjL4wlPPFviALr31aeb6gzhZWUxT/view?usp=sharing)
 
 
 # 💻 Research Interests 
