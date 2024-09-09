@@ -35,9 +35,10 @@ You can find my CV here: [Zhe's CV](https://zhewang2001.github.io/assets/Zhe_s_C
 # 📝 Publications 
 
 
-[Magicoder: Source Code Is All You Need](https://arxiv.org/abs/2312.02120)
-
-Yuxiang Wei, **Zhe Wang**, Jiawei Liu, Yifeng Ding, Lingming Zhang
+- <font size="3">Magicoder: Empowering Code Generation with OSS-Instruct</font> 
+[[paper]](https://arxiv.org/abs/2312.02120) \
+Yuxiang Wei, **Zhe Wang**, Jiawei Liu, Yifeng Ding, Lingming Zhang \
+<span style="color:purple">**ICML**</span> 2024 
 
 
 
