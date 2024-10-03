@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, there! I'm Zhe Wang, a first-year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by Prof. [Junyu Guo](https://www.linkedin.com/in/junyu-guo-james/?locale=zh_CN).
+Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign.   I am advised by Prof. [Lingming Zhang](https://lingming.cs.illinois.edu).
 
 Prof. Junyu Guo's lab is actively recruiting PhD and postdoc candidates for Fall 2024. His research focuses on applied probability, game theory (including Mean Field Game and Graphon Game), stochastic optimization, and reinforcement learning theory. If you are interested in these areas, please feel free to contact him directly at **junyuguo24@berkeley.edu** with your CV.
 
