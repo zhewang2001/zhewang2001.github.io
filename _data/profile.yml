@@ -1,4 +1,4 @@
-primary_name: "Zhe Wang"
+primary_name: '<span class="gradient-text">Zhe Wang</span>'
 secondary_name: ""
 navbar_name: "Zhe Wang"
 
@@ -8,7 +8,7 @@ positions:
 
 
 email: "zhe36@illinois.edu"
-# cv_link: link-to-your-cv-file
+cv_link: /assets/files/cv_2024.pdf
 gscholar: daDPx9AAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhewang2001
 twitter: zhewang_20  # Do not include the '@' symbol
