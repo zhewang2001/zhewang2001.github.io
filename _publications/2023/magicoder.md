@@ -9,7 +9,7 @@ abstract: >-
 # cover:          /assets/images/covers/cover1.jpg
 authors:
 - Yuxiang Wei
-- Zhe Wang*
+- "**Zhe Wang**"
 - Jiawei Liu
 - Yifeng Ding
 - Lingming Zhang

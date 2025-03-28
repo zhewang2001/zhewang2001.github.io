@@ -21,7 +21,7 @@ twitter: zhewang_20  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
+    Hi, there! I'm Zhe Wang, a first year <span style="color: #E31837">MS</span> (<span style="color: #4B9CD3">Master of Science in Computer Science</span>) student from <span style="color: #13294B">Siebel School of Computing and Data Science</span>, University of Illinois Urbana-Champaign. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
   </p>
   <p>
     My research interest includes natural language processing (NLP), software engineering (SE) and machine learning (ML).
@@ -42,7 +42,7 @@ education:
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_red.png
   position: M.S. in Computer Science
-  date: Aug. 2024 - May. 2026(expected)
+  date: Aug. 2024 - Present
 - name: Tsinghua University
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics
