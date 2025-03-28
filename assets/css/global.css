@@ -67,3 +67,9 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.gradient-text {
+    background: linear-gradient(to right, #163273, #2b1335, #72184e); 
+    background-clip: text;         
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

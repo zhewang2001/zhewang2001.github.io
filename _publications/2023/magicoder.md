@@ -6,7 +6,7 @@ pub:            "ICML 2024"
 pub_date:       "2024"
 abstract: >-
   We introduce Magicoder, a series of fully open-source (code, weights, and data) Large Language Models (LLMs) for code that significantly closes the gap with top code models while having no more than 7B parameters.
-# cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/magicoder-overview.png
 authors:
 - Yuxiang Wei
 - "**Zhe Wang**"
