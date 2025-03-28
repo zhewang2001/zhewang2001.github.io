@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Zhe Wang"
 
 positions:
-- logo: /assets/images/badges/uiuc_red.png  # Logo is optional
+- logo: /assets/images/badges/UIUC_red.png  # Logo is optional
   name: Graduate Student, University of Illinois at Urbana-Champaign
 
 
@@ -41,10 +41,8 @@ portrait_url: /assets/images/photos/portrait.png
 education:
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_red.png
-  position: >- 
-    Department of Computer Science <br/>
-    M.S. Student
-  date: Aug. 2024 - present
+  position: M.S. in Computer Science
+  date: Aug. 2024 - May. 2026(expected)
 - name: Tsinghua University
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics
