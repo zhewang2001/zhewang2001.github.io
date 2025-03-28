@@ -1,10 +1,10 @@
-primary_name: '<span class="gradient-text">Zhe Wang</span>'
+primary_name: '<span class="gradient-text"><strong>Zhe Wang</strong></span>'
 secondary_name: ""
 navbar_name: "Zhe Wang"
 
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
-  name: Graduate Student, University of Illinois at Urbana-Champaign
+  name: Graduate Student, <span class="gradient-text">University of Illinois at Urbana-Champaign</span>
 
 
 email: "zhe36@illinois.edu"
