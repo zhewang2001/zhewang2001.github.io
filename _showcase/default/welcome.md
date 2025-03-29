@@ -5,33 +5,33 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>About My Life & Interests</h2>
+    <h2 class="text-primary">About My Life & Interests</h2>
     <hr />
     <p>
-        Art has been a significant part of my life. I started learning sketching when I was young, and although I don't take formal lessons anymore, I still enjoy drawing, especially manga-style illustrations and character portraits.
+        I've been into painting since I was a kid, starting with sketching lessons. Even though I don't take formal classes anymore, I still love to draw - especially when it comes to manga-style art and character portraits!
     </p>
     <p>
-        I'm a huge anime and manga enthusiast. Some of my favorite series include:
-    </p>
-    <ul>
-        <li>Attack on Titan (all-time favorite)</li>
-        <li>Naruto</li>
-        <li>Tokyo Ghoul</li>
-        <li>Jujutsu Kaisen</li>
-        <li>JoJo's Bizarre Adventure</li>
-    </ul>
-    <p>
-        When it comes to animated films, I particularly enjoy thought-provoking works like "Soul" and "Ne Zha".
-    </p>
-    <p>
-        Music is another passion of mine. I enjoy a diverse range of genres, from pop music to anime soundtracks. Some of my favorite classic rock songs come from JoJo's Bizarre Adventure references, including:
+        I'm a total <span class="text-danger">anime and manga</span> enthusiast! Here are some shows that I absolutely love:
     </p>
     <ul>
-        <li>Queen - Killer Queen</li>
-        <li>Led Zeppelin - Stairway to Heaven</li>
-        <li>Eagles - Hotel California</li>
+        <li class="bg-light p-2 mb-2 rounded">Attack on Titan (hands down my favorite!)</li>
+        <li class="bg-light p-2 mb-2 rounded">Naruto</li>
+        <li class="bg-light p-2 mb-2 rounded">Tokyo Ghoul</li>
+        <li class="bg-light p-2 mb-2 rounded">Jujutsu Kaisen</li>
+        <li class="bg-light p-2 mb-2 rounded">JoJo's Bizarre Adventure</li>
     </ul>
     <p>
-        Though not a professional singer, I absolutely love singing! Though not good at high notes, I absolutely love attempting them!
+        When it comes to animated movies, I'm a huge fan of "<span class="text-info">Soul</span>" and "<span class="text-info">Ne Zha</span>"! They're just amazing!
+    </p>
+    <p>
+        <span class="text-success">Music</span> is also a huge part of my life! I listen to pretty much everything, from pop hits to anime soundtracks. Thanks to JoJo's, I've gotten super into classic rock. Some of my favorites are:
+    </p>
+    <ul>
+        <li class="bg-light p-2 mb-2 rounded">Queen - Killer Queen</li>
+        <li class="bg-light p-2 mb-2 rounded">Led Zeppelin - Stairway to Heaven</li>
+        <li class="bg-light p-2 mb-2 rounded">Eagles - Hotel California</li>
+    </ul>
+    <p>
+        And hey, while I'm no professional, I LOVE to <span class="text-warning">sing</span>! Sure, those high notes might be a bit of a challenge, but that doesn't stop me from trying! 😄
     </p>
 </div>
