@@ -5,19 +5,33 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>About My Life & Interests</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        Art has been a significant part of my life. I started learning sketching when I was young, and although I don't take formal lessons anymore, I still enjoy drawing, especially manga-style illustrations and character portraits.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        I'm a huge anime and manga enthusiast. Some of my favorite series include:
+    </p>
+    <ul>
+        <li>Attack on Titan (all-time favorite)</li>
+        <li>Naruto</li>
+        <li>Tokyo Ghoul</li>
+        <li>Jujutsu Kaisen</li>
+        <li>JoJo's Bizarre Adventure</li>
+    </ul>
+    <p>
+        When it comes to animated films, I particularly enjoy thought-provoking works like "Soul" and "Ne Zha".
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
+        Music is another passion of mine. I enjoy a diverse range of genres, from pop music to anime soundtracks. Some of my favorite classic rock songs come from JoJo's Bizarre Adventure references, including:
     </p>
+    <ul>
+        <li>Queen - Killer Queen</li>
+        <li>Led Zeppelin - Stairway to Heaven</li>
+        <li>Eagles - Hotel California</li>
+    </ul>
     <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        Though not a professional singer, I absolutely love singing! Though not good at high notes, I absolutely love attempting them!
     </p>
 </div>
