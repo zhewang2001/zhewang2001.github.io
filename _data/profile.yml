@@ -4,7 +4,7 @@ navbar_name: "Zhe Wang"
 
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
-  name: Graduate Student, <span class="gradient-text">University of Illinois at Urbana-Champaign</span>
+  name: Graduate Student, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
 
 
 email: "zhe36@illinois.edu"
@@ -21,13 +21,13 @@ linkedin: zhe-wang-67aa502a7
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, there! I'm Zhe Wang, a first year M.S. student from Siebel School of Computing and Data Science, at University of Illinois at Urbana-Champaign. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
+    Hi, there! I'm Zhe Wang, a first year M.S. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
   </p>
   <p>
     Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
   </p>
   <p>
-    <span class="gradient-text-light" style="font-size: 1.4em;"><strong>Research Interests</strong></span>
+    <span class="gradient-text" style="font-size: 1.4em;"><strong>Research Interests</strong></span>
   </p>
   <p>
     My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
@@ -51,6 +51,10 @@ education:
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics
   date: Sep. 2020 - Jul. 2024
+- name: Shanghai High School
+  logo: /assets/images/badges/SHS.png
+  position: High School
+  date: Sep. 2017 - Jun. 2020
 
 # experience:
 # - name: Peking University
