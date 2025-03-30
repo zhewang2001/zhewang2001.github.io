@@ -5,6 +5,8 @@ navbar_name: "Zhe Wang"
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
   name: Graduate Student, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
+- logo: /assets/images/badges/THU.png
+  name: Undergraduate Student, <span class="gradient-text-light"><strong>Tsinghua University</strong></span>
 
 
 email: "zhe36@illinois.edu"
