@@ -73,3 +73,10 @@ div.lazy {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.gradient-text-light {
+    background: linear-gradient(to right, #4a56ea, #984ad6, #d53ac3); 
+    background-clip: text;         
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
