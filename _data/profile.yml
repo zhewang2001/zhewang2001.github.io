@@ -21,13 +21,13 @@ linkedin: zhe-wang-67aa502a7
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, <span class="gradient-text">University of Illinois Urbana-Champaign</span>. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
+    Hi, there! I'm Zhe Wang, a first year MS (Master of Science in Computer Science) student from Siebel School of Computing and Data Science, University of Illinois Urbana-Champaign. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
   </p>
   <p>
     My research interest includes natural language processing (NLP), software engineering (SE) and machine learning (ML).
   </p>
   <p>
-    <strong>Research Interests:</strong>
+    <span class="gradient-text-light" style="font-size: 1.2em;"><strong>Research Interests:</strong></span>
   </p>
   <ul>
     <li><strong>AI for Code:</strong> to build and evaluate AI programmers to propel developer efficiency and improve software quality.</li>
