@@ -2,8 +2,8 @@
 title:          "Magicoder: Empowering Code Generation with OSS-Instruct"
 date:           2023-12-04 00:00:00 +0800
 selected:       true
-pub:            '<span class="gradient-text"><strong>ICML</strong></span>'
-pub_date:       "2024"
+pub:            '<span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>ICML</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2024</span>'
+# pub_date:       "2024"
 abstract: >-
   In this paper, we introduce Magicoder, a series of fully open-source (code, weights, and data) Large Language Models (LLMs) for code that significantly closes the gap with top code models while having no more than 7B parameters.
 cover:          /assets/images/covers/magicoder_overview.png
