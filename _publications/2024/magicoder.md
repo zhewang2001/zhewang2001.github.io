@@ -1,6 +1,6 @@
 ---
 title:          "Magicoder: Empowering Code Generation with OSS-Instruct"
-date:           2023-12-04 00:00:00 +0800
+date:           2024-06-07 00:00:00 +0800
 selected:       true
 pub:            '<span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>ICML</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2024</span>'
 # pub_date:       "2024"
