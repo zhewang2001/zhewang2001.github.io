@@ -28,17 +28,19 @@ short_bio: >-
   <p>
     Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
   </p>
-  <p>
-    <span class="gradient-text" style="font-size: 1.4em;"><strong>Research Interests</strong></span>
-  </p>
-  <p>
-    My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
-  </p>
-  <ul>
-    <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs to solve software engineering tasks through post-training via synthetic data</li>
-    <li><strong class="gradient-text-light" style="font-size: 1.1em;">Trustworthy LLMs:</strong> to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks</li>
-    <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLM Applications:</strong> to empower LLMs with reasoning, planning and collaboration capabilities through alignment training and agent-based systems</li>
-  </ul>
+  <details>
+    <summary><b><span class="gradient-text" style="font-size: 1.4em;">Research Interests</span></b></summary>
+    <div>
+      <p>
+        My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
+      </p>
+      <ul>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs to solve software engineering tasks through post-training via synthetic data</li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Trustworthy LLMs:</strong> to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks</li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLM Applications:</strong> to empower LLMs with reasoning, planning and collaboration capabilities through alignment training and agent-based systems</li>
+      </ul>
+    </div>
+  </details>
   <p>
     <strong>I am currently seeking for an Ph.D. position starting from Fall 2026.</strong> Feel free to drop me an email if you are interested in my research or have any questions. Please find my detailed Curriculum Vitae below:
   </p>
