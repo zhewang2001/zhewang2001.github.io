@@ -32,9 +32,9 @@ short_bio: >-
         My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
       </p>
       <ul>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs to solve software engineering tasks through post-training via synthetic data <a href="/publications#year-2024/magicoder">[Magicoder]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLM Applications:</strong> to empower LLMs with reasoning, planning and collaboration capabilities through alignment training <a href="/publications#year-2025/purpcode">[PurpCode]</a> and agent-based systems <a href="/publications#year-2025/multiagentbench">[MultiAgentBench]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Trustworthy LLMs:</strong> to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks <a href="/publications#year-2025/purpcode">[PurpCode]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs to solve software engineering tasks through post-training via synthetic data <a href="/#magicoder">[Magicoder]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLM Applications:</strong> to empower LLMs with reasoning, planning and collaboration capabilities through alignment training <a href="/#purpcode">[PurpCode]</a> and agent-based systems <a href="/#multiagentbench">[MultiAgentBench]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Trustworthy LLMs:</strong> to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks <a href="/#purpcode">[PurpCode]</a></li>
       </ul>
     </div>
   </details>
