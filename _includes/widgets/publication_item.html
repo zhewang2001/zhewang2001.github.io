@@ -1,5 +1,6 @@
 {% assign item = include.item %}
-<div id="{{ item.basename }}">
+{% assign item_id = item.title | downcase | replace: ' ', '-' | replace: ':', '' %}
+<div id="{{ item_id }}">
 <div class="d-none d-md-block">
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
         <div class="col-md-3 col-xl-2 mb-md-0 p-md-3">
