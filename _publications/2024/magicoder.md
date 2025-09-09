@@ -4,6 +4,7 @@ date:           2024-06-07 00:00:00 +0800
 selected:       true
 pub:            '<span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>ICML</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2024</span>'
 # pub_date:       "2024"
+semantic_scholar_id: f68164bf402e311a510a741860e96ab4ea24aa9f  # use this to retrieve citation count
 abstract: >-
   In this paper, we introduce Magicoder, a series of fully open-source (code, weights, and data) Large Language Models (LLMs) for code that significantly closes the gap with top code models while having no more than 7B parameters.
 cover:          /assets/images/covers/magicoder_overview.png
