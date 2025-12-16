@@ -2,7 +2,7 @@
 title:          "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?"
 date:           2025-11-17 00:00:00 +0800
 selected:       true
-# pub:            '<span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>ACL</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2025</span>'
+pub:            '<span style="color:rgb(215, 84, 84); font-size: 1.2em; font-weight: bold; font-style: normal;">🚀 Top-1 Open-Source Agent Performance on SWE-bench Verified</span>'
 # pub_date:       "2025"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success"> Main</span>'
 # semantic_scholar_id: 8998b3895cce8b206098197478d3d9bc3add321c
