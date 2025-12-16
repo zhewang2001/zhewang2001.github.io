@@ -4,6 +4,7 @@ date:           2025-07-25 00:00:00 +0800
 selected:       true
 pub:            '<a href="https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge"><span style="color:rgb(215, 84, 84); font-size: 1.2em; font-weight: bold; font-style: normal;">🥇 1st Place in Amazon Nova AI Challenge 2025 ($250,000)</span></a><br><span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>NeurIPS</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2025</span>'
 # pub_date:       "2025"
+semantic_scholar_id: d2cda4397bb3329c4c5b7277b61eeac6e7d98d2a
 abstract: >-
   We introduce PurpCode, the first post-training recipe for training safe code reasoning models towards generating secure code and defending against malicious cyberactivities. PurpCode trains a reasoning model in two stages: (i) Rule Learning, which explicitly teaches the model to reference cybersafety rules to generate vulnerability-free code and to avoid facilitating malicious cyberactivities; and (ii) Reinforcement Learning, which optimizes model safety and preserves model utility through diverse, multi-objective reward mechanisms.
 cover:          /assets/images/covers/purpcode_overview.pdf
