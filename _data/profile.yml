@@ -33,8 +33,8 @@ short_bio: >-
       </p>
       <ul>
         <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs for code through post-training via reasoning <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a> and data-centric alignment <a href="/#magicoder-empowering-code-generation-with-oss-instruct">[Magicoder]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">AI for Cybersecurity:</strong> to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks. <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Agents for Software Engineering:</strong> to empower LLM agents with the capability of collaborating <a href="/#multiagentbench-evaluating-the-collaboration-and-competition-of-llm-agents">[MultiAgentBench]</a> and self-evolving <a href="/#live-swe-agent-can-software-engineering-agents-self-evolve-on-the-fly?">[Live-SWE-agent]</a> for real-world software engineering tasks.</li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">AI for Cybersecurity:</strong> to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Agents for Software Engineering:</strong> to empower LLM agents with the capability of collaborating <a href="/#multiagentbench-evaluating-the-collaboration-and-competition-of-llm-agents">[MultiAgentBench]</a> and self-evolving <a href="/#live-swe-agent-can-software-engineering-agents-self-evolve-on-the-fly?">[Live-SWE-agent]</a> for real-world software engineering tasks</li>
       </ul>
     </div>
   </details>
