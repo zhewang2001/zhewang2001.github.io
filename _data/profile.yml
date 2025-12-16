@@ -10,7 +10,7 @@ positions:
 
 
 email: "zhe36@illinois.edu"
-cv_link: /assets/files/cv_25_1119.pdf
+cv_link: /assets/files/cv_25_1215.pdf
 gscholar: daDPx9AAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhewang2001
 twitter: zhewang_20  # Do not include the '@' symbol
@@ -26,15 +26,15 @@ short_bio: >-
     Hi, there! I'm Zhe Wang, a second year M.S. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>. Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
   </p>
   <details open>
-    <summary><b><span class="gradient-text" style="font-size: 1.4em;">Research Interests</span></b></summary>
+    <summary><b><span style="font-size: 1.4em;"> Research Interests</span></b></summary>
     <div>
       <p>
         My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
       </p>
       <ul>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs to solve software engineering tasks through post-training via synthetic data <a href="/#magicoder-empowering-code-generation-with-oss-instruct">[Magicoder]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLM Applications:</strong> to empower LLMs with reasoning, planning and collaboration capabilities through alignment training <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a> and agent-based systems <a href="/#multiagentbench-evaluating-the-collaboration-and-competition-of-llm-agents">[MultiAgentBench]</a> <a href="/#live-swe-agent-can-software-engineering-agents-self-evolve-on-the-fly?">[Live-SWE-agent]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Trustworthy LLMs:</strong> to enhance trustworthiness, resilience and reliability of helpful-only LLMs against vulnerable code and malicious cyberactivity attacks <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs for code through post-training via reasoning <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a> and data-centric alignment <a href="/#magicoder-empowering-code-generation-with-oss-instruct">[Magicoder]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">AI for Cybersecurity:</strong> to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks. <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">Agents for Software Engineering:</strong> to empower LLM agents with the capability of collaborating <a href="/#multiagentbench-evaluating-the-collaboration-and-competition-of-llm-agents">[MultiAgentBench]</a> and self-evolving <a href="/#live-swe-agent-can-software-engineering-agents-self-evolve-on-the-fly?">[Live-SWE-agent]</a> for real-world software engineering tasks.</li>
       </ul>
     </div>
   </details>
