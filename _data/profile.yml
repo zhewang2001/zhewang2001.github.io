@@ -23,7 +23,7 @@ linkedin: zhe-wang-67aa502a7
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, there! I'm Zhe Wang, a second year M.S. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>. Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
+    Hi, there! I'm Zhe Wang, a first year Ph.D. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am fortuantely advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>. Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
   </p>
   <details open>
     <summary><b><span style="font-size: 1.4em;"> Research Interests</span></b></summary>
@@ -39,18 +39,22 @@ short_bio: >-
     </div>
   </details>
   <p>
-    <span style="color:rgb(215, 84, 84); font-weight: bold;">I am currently seeking for an Ph.D. position starting from Fall 2026.</span> Feel free to drop me an email if you are interested in my research or have any questions. Please find my detailed Curriculum Vitae below:
+    Feel free to drop me an email if you are interested in my research or have any questions. Please find my detailed Curriculum Vitae below:
   </p>
 
-portrait_url: /assets/images/photos/portrait.png
+portrait_url: /assets/images/photos/portrait_20260822.png
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_red.png
+  position: Ph.D. in Computer Science
+  date: Aug. 2026 - Present
+- name: University of Illinois at Urbana-Champaign
+  logo: /assets/images/badges/UIUC_red.png
   position: M.S. in Computer Science
-  date: Aug. 2024 - Present
+  date: Aug. 2024 - May. 2026
 - name: Tsinghua University
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics
