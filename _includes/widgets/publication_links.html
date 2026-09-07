@@ -1,0 +1,39 @@
+{%- comment -%}
+Renders a publication's links as "icon + label" instead of [Bracketed] text.
+The icon is picked from the link's name, falling back to a generic link icon.
+{%- endcomment -%}
+<p class="small pb-0 mb-0 lh-125 abstract-links">
+    {% for link in include.links %}
+    {%- assign key = link[0] | downcase -%}
+    {%- if key contains 'paper' or key contains 'arxiv' or key contains 'pdf' or key contains 'publication' -%}
+        {%- assign icon = 'fas fa-file-lines' -%}
+    {%- elsif key contains 'code' or key contains 'github' or key contains 'repo' -%}
+        {%- assign icon = 'fab fa-github' -%}
+    {%- elsif key contains 'leaderboard' or key contains 'benchmark' or key contains 'rank' -%}
+        {%- assign icon = 'fas fa-ranking-star' -%}
+    {%- elsif key contains 'slide' or key contains 'talk' -%}
+        {%- assign icon = 'fas fa-display' -%}
+    {%- elsif key contains 'video' or key contains 'youtube' -%}
+        {%- assign icon = 'fab fa-youtube' -%}
+    {%- elsif key contains 'poster' -%}
+        {%- assign icon = 'fas fa-image' -%}
+    {%- elsif key contains 'data' -%}
+        {%- assign icon = 'fas fa-database' -%}
+    {%- elsif key contains 'model' or key contains 'hugging' or key contains 'weight' -%}
+        {%- assign icon = 'fas fa-cube' -%}
+    {%- elsif key contains 'blog' or key contains 'post' -%}
+        {%- assign icon = 'fas fa-pen-nib' -%}
+    {%- elsif key contains 'bibtex' or key contains 'cite' -%}
+        {%- assign icon = 'fas fa-quote-right' -%}
+    {%- elsif key contains 'demo' or key contains 'project' or key contains 'page' or key contains 'site' or key contains 'web' -%}
+        {%- assign icon = 'fas fa-globe' -%}
+    {%- else -%}
+        {%- assign icon = 'fas fa-link' -%}
+    {%- endif -%}
+    {% if link[1].url %}
+    <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}"><i class="{{ icon }}"></i> {{ link[0] }}</a>
+    {% else %}
+    <a target="_blank" href="{{ link[1] }}"><i class="{{ icon }}"></i> {{ link[0] }}</a>
+    {% endif %}
+    {% endfor %}
+</p>

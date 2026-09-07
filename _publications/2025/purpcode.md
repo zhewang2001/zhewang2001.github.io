@@ -2,16 +2,16 @@
 title:          "PurpCode: Reasoning for Safer Code Generation"
 date:           2025-07-25 00:00:00 +0800
 selected:       true
-pub:            '<a href="https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge"><span style="color:rgb(215, 84, 84); font-size: 1.2em; font-weight: bold; font-style: normal;">🥇 1st Place in Amazon Nova AI Challenge 2025 ($250,000)</span></a><br><span class="gradient-text" style="font-size: 1.2em; font-weight: bold; font-style: normal;"><strong>NeurIPS</strong></span> <span style="font-size: 1.2em; font-weight: bold; font-style: normal;">2025</span>'
+pub:            '<a class="pub-highlight" href="https://www.amazon.science/nova-ai-challenge/pushing-the-boundaries-of-secure-ai-winners-of-the-amazon-nova-ai-challenge">🥇 1st Place in Amazon Nova AI Challenge 2025 ($250,000)</a><br><span class="badge badge-pill badge-publication badge-venue">NeurIPS 2025</span>'
 # pub_date:       "2025"
 semantic_scholar_id: d2cda4397bb3329c4c5b7277b61eeac6e7d98d2a
 abstract: >-
-  We introduce PurpCode, the first post-training recipe for training safe code reasoning models towards generating secure code and defending against malicious cyberactivities. PurpCode trains a reasoning model in two stages: (i) Rule Learning, which explicitly teaches the model to reference cybersafety rules to generate vulnerability-free code and to avoid facilitating malicious cyberactivities; and (ii) Reinforcement Learning, which optimizes model safety and preserves model utility through diverse, multi-objective reward mechanisms.
-cover:          /assets/images/covers/purpcode_overview.pdf
+  Code reasoning models are increasingly trusted to write production code, yet they still emit vulnerable code and can be steered into assisting malicious cyberactivity. We introduce PurpCode, the first post-training recipe for safe code reasoning, which first teaches a model to reason against explicit cybersafety rules and then balances safety against utility through multi-objective reinforcement learning over red-teamed prompts. The resulting PurpCode-32B achieves state-of-the-art cybersafety among frontier models while lowering overrefusal and preserving both coding ability and general security knowledge.
+cover:          /assets/images/covers/purpcode_overview.png
 authors:
 - Jiawei Liu*
 - Nirav Diwan*
-- <strong>Zhe Wang*</strong>
+- Zhe Wang*
 - Haoyu Zhai
 - Xiaona Zhou
 - Kiet A. Nguyen

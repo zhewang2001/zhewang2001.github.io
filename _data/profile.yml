@@ -4,9 +4,11 @@ navbar_name: "Zhe Wang"
 
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
-  name: Graduate Student, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
+  name: Ph.D. Student in Computer Science, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
+  short: CS Ph.D. Student @ UIUC  # Short form, shown on the mini profile card
 - logo: /assets/images/badges/THU.png
-  name: Undergraduate Student, <span class="gradient-text-light"><strong>Tsinghua University</strong></span>
+  name: B.S. in Mathematics and Physics, <span class="gradient-text-light"><strong>Tsinghua University</strong></span>
+  short: B.S @ Tsinghua
 
 
 email: "zhe36@illinois.edu"
@@ -23,21 +25,21 @@ linkedin: zhe-wang-67aa502a7
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, there! I'm Zhe Wang, a first year Ph.D. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am fortuantely advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>. Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
+    Hi, there! I'm Zhe Wang, a first year Ph.D. student at University of Illinois at Urbana-Champaign, majoring in Computer Science. I am fortuantely advised by Prof. <a href="https://lingming.cs.illinois.edu">Lingming Zhang</a>.
+    <br/>
+    Before coming to UIUC, I completed my undergraduate study at Tsinghua University, majoring in Mathematics and Physics.
   </p>
-  <details open>
-    <summary><b><span style="font-size: 1.4em;"> Research Interests</span></b></summary>
-    <div>
+  <h5 class="mt-4 research-interests-heading">Research Interests</h5>
+  <div>
       <p>
         My research interest lies in the intersection of Artificial Intelligence and Software Engineering. More specifically:
       </p>
       <ul>
         <li><strong class="gradient-text-light" style="font-size: 1.1em;">LLMs for Code:</strong> to develop LLMs for code through post-training via reasoning <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a> and data-centric alignment <a href="/#magicoder-empowering-code-generation-with-oss-instruct">[Magicoder]</a></li>
-        <li><strong class="gradient-text-light" style="font-size: 1.1em;">AI for Cybersecurity:</strong> to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
+        <li><strong class="gradient-text-light" style="font-size: 1.1em;">AI Cybersecurity:</strong> to enhance the trustworthiness, reliability and security of software systems against cyberactivity attacks <a href="/#purpcode-reasoning-for-safer-code-generation">[PurpCode]</a></li>
         <li><strong class="gradient-text-light" style="font-size: 1.1em;">Agents for Software Engineering:</strong> to empower LLM agents with the capability of collaborating <a href="/#multiagentbench-evaluating-the-collaboration-and-competition-of-llm-agents">[MultiAgentBench]</a> and self-evolving <a href="/#live-swe-agent-can-software-engineering-agents-self-evolve-on-the-fly?">[Live-SWE-agent]</a> for real-world software engineering tasks</li>
       </ul>
-    </div>
-  </details>
+  </div>
   <p>
     Feel free to drop me an email if you are interested in my research or have any questions. Please find my detailed Curriculum Vitae below:
   </p>
@@ -49,12 +51,12 @@ portrait_url: /assets/images/photos/portrait_20260822.png
 education:
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_red.png
-  position: Ph.D. in Computer Science
-  date: Aug. 2026 - Present
-- name: University of Illinois at Urbana-Champaign
-  logo: /assets/images/badges/UIUC_red.png
-  position: M.S. in Computer Science
-  date: Aug. 2024 - May. 2026
+  # Multiple degrees at the same institution: list them under `positions`
+  positions:
+  - position: Ph.D. in Computer Science
+    date: Aug. 2026 - Present
+  - position: M.S. in Computer Science
+    date: Aug. 2024 - May. 2026
 - name: Tsinghua University
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics

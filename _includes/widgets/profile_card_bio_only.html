@@ -8,6 +8,18 @@
                         About Me
                     </div>
                 </div>
+                <div class="row px-3">
+                    <div class="col">
+                        <div class="text-profile-position">
+                            {% for position in site.data.profile.positions %}
+                            {% if position.logo -%}
+                            <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
+                            {%- endif %}
+                            {{ position.name }}<br/>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
                 <div class="row p-3">
                     <div class="col">
                         <div class="text-profile-bio mt-0" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>

@@ -1,6 +1,63 @@
 "Zhe Wang":
   bold: true
 
+# Co-author homepages. Authors without a `url` render as plain text.
+# Names here must match the entries in each publication's `authors:` list
+# (without the trailing * / # markers).
+
+"Chunqiu Steven Xia":
+  url: https://steven.cs.illinois.edu/
+"Yuxiang Wei":
+  url: https://yuxiang.cs.illinois.edu/
+"Lingming Zhang":
+  url: https://lingming.cs.illinois.edu/
+"Jiawei Liu":
+  url: https://jw-liu.xyz/
+"Yifeng Ding":
+  url: https://yifeng-ding.com/
+"Yinlin Deng":
+  url: https://dengyinlin.github.io/
+"Nirav Diwan":
+  url: https://nirav0999.github.io/
+"Kiet A. Nguyen":
+  url: https://plan-lab.github.io/member.html?id=phd-kiet-nguyen
+"Tianjiao Yu":
+  url: https://tianjiao-yu.github.io/
+"Muntasir Wahed":
+  url: https://mwahed.com/
+"Hadjer Benkraouda":
+  url: https://hbenkraouda.web.illinois.edu/
+"Xiaona Zhou":
+  url: https://scholar.google.com/citations?user=TgdQrLwAAAAJ
+"Haoyu Zhai":
+  url: https://jeffz0930.github.io
+"Shuyi Guo":
+  url: https://scholar.google.com/citations?user=3xN44dcAAAAJ
+"Ismini Lourentzou":
+  url: https://isminoula.github.io/
+"Gang Wang":
+  url: https://gangw.cs.illinois.edu/
+"Kunlun Zhu":
+  url: https://kunlun-zhu.github.io/
+"Hongyi Du":
+  url: https://hongyi-du.github.io/
+"Zhaochen Hong":
+  url: https://zhaochenhong42.github.io/
+"Xiaocheng Yang":
+  url: https://yxc-cyber.github.io/
+"Zhenhailong Wang":
+  url: https://mikewangwzhl.github.io/
+"Cheng Qian":
+  url: https://qiancheng0.github.io/
+"Xiangru Tang":
+  url: https://scholar.google.com/citations?user=gGcRkpYAAAAJ
+"Heng Ji":
+  url: https://blender.cs.illinois.edu/hengji/research.html
+"Jiaxuan You":
+  url: https://cs.stanford.edu/people/jiaxuan/
+
+# No personal homepage found: Yan Yang
+
 # "Robert White":
 #   url: https://www.google.com/?q=Robert+White
 
