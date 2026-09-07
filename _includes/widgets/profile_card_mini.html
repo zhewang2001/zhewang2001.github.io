@@ -36,11 +36,13 @@
 
                 <div class="row">
                     <div class="col text-center profile-mini-position">
-                        {% for position in site.data.profile.positions %}
-                        {%- if position.short -%}
-                        <span class="text-nowrap">{% if position.logo %}<img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>{% endif %} {{ position.short }}</span><br/>
-                        {%- endif -%}
-                        {% endfor %}
+                        <div class="d-inline-block text-left">
+                            {% for position in site.data.profile.positions %}
+                            {%- if position.short -%}
+                            <div class="text-nowrap">{% if position.logo %}<img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>{% endif %} {{ position.short }}{% if position.short_date %} <span class="profile-mini-date">{{ position.short_date }}</span>{% endif %}</div>
+                            {%- endif -%}
+                            {% endfor %}
+                        </div>
                     </div>
                 </div>
 

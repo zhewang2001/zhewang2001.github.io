@@ -154,8 +154,17 @@ div.lazy {
     line-height: 1.5;
 }
 
-.profile-mini-position .gradient-text,
-.profile-mini-position .gradient-text-light {
+/* The verb endings carry the status, so colour them to match: green for
+   in progress, grey for done. */
+.suffix-ing {
+    color: #2f9e44;
+}
+
+.suffix-ed {
+    color: #868e96;
+}
+
+.profile-mini-position .school-link {
     font-weight: 600;
 }
 
@@ -306,4 +315,16 @@ a.pub-highlight:hover {
     font-weight: 600;
     line-height: 1.3;
     color: #1b2a41;
+}
+
+/* School links keep the surrounding text's colour (including the gradient
+   spans) and only reveal themselves on hover. */
+.school-link,
+.school-link:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+.school-link:hover {
+    text-decoration: underline;
 }

@@ -5,11 +5,11 @@ name_pronunciation: "/dʒə wɑŋ/"  # Shown under the name on the profile card
 
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
-  name: Ph.D. Student in Computer Science, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
-  short: CS Ph.D. Student @ <span class="gradient-text">UIUC</span>  # Short form, shown on the mini profile card
+  name: Ph.D. Student in Computer Science, <a class="school-link" target="_blank" href="https://illinois.edu"><span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span></a>
+  short: Ph.D.<span class="suffix-ing">'ing</span> @ <a class="school-link" target="_blank" href="https://illinois.edu">UIUC</a>  # Short form, shown on the mini profile card
 - logo: /assets/images/badges/THU.png
-  name: B.S. in Mathematics and Physics, <span class="gradient-text-light"><strong>Tsinghua University</strong></span>
-  short: B.S @ <span class="gradient-text-light">Tsinghua</span>
+  name: B.S. in Mathematics and Physics, <a class="school-link" target="_blank" href="https://www.tsinghua.edu.cn/en/"><span class="gradient-text-light"><strong>Tsinghua University</strong></span></a>
+  short: B.S<span class="suffix-ed">'ed</span> @ <a class="school-link" target="_blank" href="https://www.tsinghua.edu.cn/en/">Tsinghua</a>
 
 
 email: "zhe36@illinois.edu"
@@ -51,6 +51,7 @@ portrait_url: /assets/images/photos/portrait_20260822_slim.png
 
 education:
 - name: University of Illinois at Urbana-Champaign
+  url: https://illinois.edu
   logo: /assets/images/badges/UIUC_red.png
   # Multiple degrees at the same institution: list them under `positions`
   positions:
@@ -59,10 +60,12 @@ education:
   - position: M.S. in Computer Science
     date: Aug. 2024 - May. 2026
 - name: Tsinghua University
+  url: https://www.tsinghua.edu.cn/en/
   logo: /assets/images/badges/THU.png
   position: B.S. in Mathematics and Physics
   date: Sep. 2020 - Jul. 2024
 - name: Shanghai High School
+  url: https://www.shs.cn/
   logo: /assets/images/badges/SHS.png
   position: High School
   date: Sep. 2017 - Jun. 2020
