@@ -139,10 +139,24 @@ div.lazy {
     }
 }
 
+/* Pronunciation guide under the name, kept light so it stays secondary. */
+.profile-mini-pronunciation {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #6c757d;
+    margin-top: -0.1rem;
+    margin-bottom: 0.3rem;
+}
+
 .profile-mini-position {
     font-size: 0.95rem;
     font-weight: 500;
     line-height: 1.5;
+}
+
+.profile-mini-position .gradient-text,
+.profile-mini-position .gradient-text-light {
+    font-weight: 600;
 }
 
 .education-name {

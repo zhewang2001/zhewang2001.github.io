@@ -21,10 +21,18 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col text-center h4 mb-2" style="font-weight: 600;">
+                    <div class="col text-center h4 mb-0" style="font-weight: 600;">
                         {{ site.data.profile.primary_name | strip_html }}
                     </div>
                 </div>
+
+                {% if site.data.profile.name_pronunciation %}
+                <div class="row">
+                    <div class="col text-center profile-mini-pronunciation">
+                        {{ site.data.profile.name_pronunciation }}
+                    </div>
+                </div>
+                {% endif %}
 
                 <div class="row">
                     <div class="col text-center profile-mini-position">

@@ -1,14 +1,15 @@
 primary_name: '<span class="gradient-text"><strong>Zhe Wang</strong></span>'
 secondary_name: ""
 navbar_name: "Zhe Wang"
+name_pronunciation: "/dʒə wɑŋ/"  # Shown under the name on the profile card
 
 positions:
 - logo: /assets/images/badges/UIUC_red.png  # Logo is optional
   name: Ph.D. Student in Computer Science, <span class="gradient-text"><strong>University of Illinois at Urbana-Champaign</strong></span>
-  short: CS Ph.D. Student @ UIUC  # Short form, shown on the mini profile card
+  short: CS Ph.D. Student @ <span class="gradient-text">UIUC</span>  # Short form, shown on the mini profile card
 - logo: /assets/images/badges/THU.png
   name: B.S. in Mathematics and Physics, <span class="gradient-text-light"><strong>Tsinghua University</strong></span>
-  short: B.S @ Tsinghua
+  short: B.S @ <span class="gradient-text-light">Tsinghua</span>
 
 
 email: "zhe36@illinois.edu"
@@ -44,7 +45,7 @@ short_bio: >-
     Feel free to drop me an email if you are interested in my research or have any questions. Please find my detailed Curriculum Vitae below:
   </p>
 
-portrait_url: /assets/images/photos/portrait_20260822.png
+portrait_url: /assets/images/photos/portrait_20260822_slim.png
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
