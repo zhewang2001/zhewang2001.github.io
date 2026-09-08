@@ -9,7 +9,7 @@ positions:
   short: Ph.D.<span class="suffix-ing">'ing</span> @ <a class="school-link" target="_blank" href="https://illinois.edu">UIUC</a>  # Short form, shown on the mini profile card
 - logo: /assets/images/badges/THU.png
   name: B.S. in Mathematics and Physics, <a class="school-link" target="_blank" href="https://www.tsinghua.edu.cn/en/"><span class="gradient-text-light"><strong>Tsinghua University</strong></span></a>
-  short: B.S<span class="suffix-ed">'ed</span> @ <a class="school-link" target="_blank" href="https://www.tsinghua.edu.cn/en/">Tsinghua</a>
+  short: B.S.<span class="suffix-ed">'ed</span> @ <a class="school-link" target="_blank" href="https://www.tsinghua.edu.cn/en/">Tsinghua</a>
 
 
 email: "zhe36@illinois.edu"
