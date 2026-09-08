@@ -10,7 +10,13 @@
             {%- endcomment -%}
             {%- if item.covers -%}
             {%- for cover in item.covers -%}
-            <img data-src="{{ cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm{% unless forloop.last %} mb-2{% endunless %}" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            {%- comment -%}
+            A cover is either a path, or `{src, width}` to render it narrower
+            than the column.
+            {%- endcomment -%}
+            {%- if cover.src -%}{%- assign cover_src = cover.src -%}{%- assign cover_width = cover.width -%}
+            {%- else -%}{%- assign cover_src = cover -%}{%- assign cover_width = false -%}{%- endif -%}
+            <img data-src="{{ cover_src | relative_url }}" alt="{{ item.title }}" class="lazy rounded-sm{% unless cover_width %} w-100{% endunless %}{% unless forloop.last %} mb-2{% endunless %}"{% if cover_width %} style="width: {{ cover_width }}; align-self: center;"{% endif %} src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
             {%- endfor -%}
             {%- elsif item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
@@ -30,7 +36,7 @@
     </div>
 </div>
 
-<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %} {% if item.cover or item.covers %}lazy{% endif %}" data-src="{% if item.covers %}{{ item.covers | first | relative_url }}{% else %}{{ item.cover | relative_url }}{% endif %}">
+<div class="row no-gutters d-md-none {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %} {% if item.cover or item.covers %}lazy{% endif %}" data-src="{% if item.covers %}{% assign first_cover = item.covers | first %}{% if first_cover.src %}{{ first_cover.src | relative_url }}{% else %}{{ first_cover | relative_url }}{% endif %}{% else %}{{ item.cover | relative_url }}{% endif %}">
     <div class="w-100 {% if include.first %}rounded-xl-top{% endif %} {% if include.last %}rounded-xl-bottom{% endif %}" style="background-color: rgba(255,255,255,0.9);">
         <div class="d-flex align-items-start flex-column py-3 px-4">
             <div class="mb-auto"></div>

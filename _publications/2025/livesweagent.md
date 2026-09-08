@@ -2,7 +2,7 @@
 title:          "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?"
 date:           2025-11-17 00:00:00 +0800
 selected:       true
-pub:            '<span class="pub-highlight">🚀 Top-1 Open-Source Agent Performance on SWE-bench Verified</span><br>'
+pub:            '<span class="pub-highlight"><img src="/assets/images/icons/trophy.png" alt="" class="highlight-icon"/> Top-1 Open-Source Agent Performance on SWE-bench Verified</span><br>'
 # pub_date:       "2025"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success"> Main</span>'
 semantic_scholar_id: b1b1a4595b3cc97606dce0791bd02e82cd1380d1

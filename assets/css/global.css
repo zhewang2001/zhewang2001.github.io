@@ -288,24 +288,32 @@ div.lazy {
 }
 
 /* Award / result highlights on a publication, e.g. a competition win or a
-   leaderboard position. Works as either a <span> or a linked <a>. */
+   leaderboard position. Outlined counterpart to the solid venue pill, keyed
+   to the same gradient the rest of the site uses. Works as <span> or <a>. */
 .pub-highlight {
     display: inline-block;
     margin: 0.15rem 0;
-    padding: 0.15em 0.6em;
-    border: 1px solid rgba(215, 84, 84, 0.45);
+    padding: 0.2em 0.75em;
     border-radius: 0.4rem;
-    background-color: rgba(215, 84, 84, 0.07);
-    color: rgb(196, 62, 62);
-    font-size: 1.05em;
+    background-color: #d1605a;
+    color: #fff;
+    font-size: 1.02em;
     font-weight: 600;
     font-style: normal;
     text-decoration: none;
 }
 
+/* Trophy / medal icons inside a highlight, sized to the text around them. */
+.highlight-icon {
+    height: 1.05em;
+    width: auto;
+    vertical-align: -0.15em;
+    margin-right: 0.15em;
+}
+
 a.pub-highlight:hover {
-    background-color: rgba(215, 84, 84, 0.14);
-    color: rgb(176, 48, 48);
+    background-color: #ba544f;
+    color: #fff;
     text-decoration: none;
 }
 

@@ -7,7 +7,9 @@ pub:            '<span class="badge badge-pill badge-publication badge-venue">AC
 semantic_scholar_id: 8998b3895cce8b206098197478d3d9bc3add321c
 abstract: >-
   LLM agents are increasingly deployed in groups, yet existing benchmarks either test a single agent or stay within one narrow domain, missing the dynamics of coordination and competition altogether. We introduce MultiAgentBench, a benchmark that evaluates LLM-based multi-agent systems across diverse interactive scenarios and scores the quality of their collaboration and competition through milestone-based indicators rather than task completion alone. Across coordination protocols and strategies, graph topologies prove strongest in research scenarios and cognitive planning improves milestone achievement by 3%.
-cover:          /assets/images/covers/multiagentbench_overview.png
+covers:
+- /assets/images/covers/multiagentbench_overview.png
+- /assets/images/covers/multiagentbench_benchmark.png
 authors:
 - Kunlun Zhu*
 - Hongyi Du*
