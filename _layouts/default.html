@@ -54,6 +54,7 @@
         });
     </script>
     <script src="{%- assign asset = site.static_files | where: 'path', '/assets/js/common.js' | first -%}{{ '/assets/js/common.js' | relative_url }}{% if asset %}?v={{ asset.modified_time | date: '%s' }}{% endif %}"></script>
+    <script src="{%- assign asset = site.static_files | where: 'path', '/assets/js/typewriter.js' | first -%}{{ '/assets/js/typewriter.js' | relative_url }}{% if asset %}?v={{ asset.modified_time | date: '%s' }}{% endif %}"></script>
     <script src="{%- assign asset = site.static_files | where: 'path', '/assets/js/bubble_visual_hash.js' | first -%}{{ '/assets/js/bubble_visual_hash.js' | relative_url }}{% if asset %}?v={{ asset.modified_time | date: '%s' }}{% endif %}"></script>
     <script src="{%- assign asset = site.static_files | where: 'path', '/assets/js/semantic_scholar_citation_count.js' | first -%}{{ '/assets/js/semantic_scholar_citation_count.js' | relative_url }}{% if asset %}?v={{ asset.modified_time | date: '%s' }}{% endif %}"></script>
 </body>

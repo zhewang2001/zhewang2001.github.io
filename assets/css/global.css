@@ -336,3 +336,29 @@ a.pub-highlight:hover {
 .school-link:hover {
     text-decoration: underline;
 }
+
+/* Terminal-style site title: a "> " prompt and a caret (this element's right
+   border) blinking after the name. The typing itself is driven by
+   assets/js/typewriter.js, which appends one character at a time - CSS
+   steps() advances by pixels, which cuts proportional letters in half. */
+.typewriter {
+    display: inline-block;
+    vertical-align: bottom;
+    border-right: 0.12em solid rgba(0, 0, 0, 0.85);
+    padding-right: 0.06em;
+    animation: blink-caret 1.05s step-end infinite;
+}
+
+.typewriter-prompt {
+    color: rgba(0, 0, 0, 0.45);
+}
+
+@keyframes blink-caret {
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: rgba(0, 0, 0, 0.85);
+    }
+}
